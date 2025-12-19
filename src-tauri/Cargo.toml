@@ -24,8 +24,7 @@ serde = { version = "1", features = ["derive"] }
 serde_json = "1"
 
 #Partie data
-#La feature bundled est crucial sous Windows pour ne pas galérer avec les DLL
-duckdb = { version = "1", features = ["bundled"] }
+rusqlite = { version = "0.31", features = ["bundled"] }
 csv = "1.3" #Pour lire les exports
 reqwest = { version = "0.12", features = ["json", "blocking"] } # Par appel d'API
 tokio = { version = "1", features = ["full"] } # Asynchrone
