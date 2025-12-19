@@ -1,0 +1,12 @@
+CONTRAT DE LICENCE UTILISATEUR FINAL (EULA)
+
+En installant ou en utilisant ce logiciel, vous acceptez les conditions suivantes :
+
+- Ce logiciel est concédé sous licence, non vendu.
+- Vous avez le droit d’utiliser l’application à titre personnel.
+- Vous n’avez pas le droit de copier, modifier, redistribuer,
+  vendre ou décompiler le logiciel.
+- Toute tentative de reverse engineering est interdite.
+- L’auteur ne peut être tenu responsable de toute perte de données.
+
+Si vous n’acceptez pas ces conditions, vous devez désinstaller le logiciel.

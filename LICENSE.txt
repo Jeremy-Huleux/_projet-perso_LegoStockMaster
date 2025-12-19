@@ -1,0 +1,16 @@
+Copyright (c) 2025 Huleux Jérémy (Zaelos)
+
+Tous droits réservés.
+
+Ce logiciel est une application propriétaire.
+Toute reproduction, distribution, modification, décompilation,
+ou réutilisation du code source ou du binaire, en tout ou en partie,
+est strictement interdite sans l’autorisation écrite de l’auteur.
+
+L’utilisateur est autorisé à installer et utiliser le logiciel
+à des fins personnelles uniquement.
+
+Toute utilisation commerciale, redistribution ou intégration
+dans un autre produit est interdite.
+
+LE LOGICIEL EST FOURNI "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE.

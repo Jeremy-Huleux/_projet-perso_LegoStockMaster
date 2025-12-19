@@ -7,3 +7,8 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
     <App />
   </React.StrictMode>,
 );
+
+/**
+ * © 2025 Jérémy Huleux (Zaelos)
+ * Logiciel propriétaire – Tous droits réservés
+ */
