@@ -1,0 +1,18 @@
+/* On importe le framework Tailwind v4 */
+@import "tailwindcss";
+
+/* Configuration de ton thème Lego directement ici */
+@theme {
+  --color-lego-red: #C91A09;
+  --color-lego-yellow: #F2CD37;
+  --color-lego-blue: #0055BF;
+  --color-lego-black: #05131D;
+  --color-lego-grey: #A0A5A9;
+}
+
+/* Styles globaux */
+body {
+    background-color: #f0f0f0;
+    font-family: 'Inter', sans-serif; /* Optionnel : une police propre */
+    user-select: none;
+}
